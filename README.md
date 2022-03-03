@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CreativeBlaster
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on Any
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on Projects that I can handle
 - 📫 How to reach me Icaro-sol@hotmail.com
 
 Tamo junto e misturado
