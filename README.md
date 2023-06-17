@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @CreativeBlaster #
-- 👀 I’m interested in Developing games--
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on Projects that I can handle
+- 👀 I’m interested in Developing --
+- 🌱 I’m currently learning backend --
+- 💞️ I’m looking to collaborate on Projects that I'm interested
 - 📫 How to reach me Icaro-sol@hotmail.com
 - linkedin:
 - https://www.linkedin.com/in/ícaro-sol-barbosa-224b77230/
