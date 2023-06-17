@@ -6,7 +6,7 @@
 - linkedin:
 - https://www.linkedin.com/in/ícaro-sol-barbosa-224b77230/
 - https://www.instagram.com/icaro_reborn/
-- 
+- Repl.it : https://replit.com/@IcaroCientista
 
 Tamo junto e misturado
 
