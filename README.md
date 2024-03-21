@@ -11,7 +11,7 @@
 Tamo junto e misturado
 
 Last Project worked on:
-https://replit.com/@IcaroCientista/Calculo-sorteios  <<<TO try My luck in lottery using basic statistics>>>
+https://replit.com/@IcaroCientista/Calculo-sorteios  -- TO try My luck in lottery using basic statistics
 this link is not working anymore but it was used to get the high value of numbers in the lottery site: https://replit.com/@IcaroCientista/MEGAdownload
 
 <!---
